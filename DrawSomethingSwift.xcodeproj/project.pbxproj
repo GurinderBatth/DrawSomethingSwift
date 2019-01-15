@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		18B4C3C621EE41D10081BA7C /* DrawView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18B4C3C521EE41D10081BA7C /* DrawView.swift */; };
 		18E58F1A21ECE511006DAD5E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18E58F1921ECE511006DAD5E /* AppDelegate.swift */; };
 		18E58F1C21ECE511006DAD5E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18E58F1B21ECE511006DAD5E /* ViewController.swift */; };
 		18E58F1F21ECE511006DAD5E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18E58F1D21ECE511006DAD5E /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		18B4C3C521EE41D10081BA7C /* DrawView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrawView.swift; sourceTree = "<group>"; };
 		18E58F1621ECE511006DAD5E /* DrawSomethingSwift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DrawSomethingSwift.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18E58F1921ECE511006DAD5E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		18E58F1B21ECE511006DAD5E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -99,6 +101,7 @@
 			children = (
 				18E58F1921ECE511006DAD5E /* AppDelegate.swift */,
 				18E58F1B21ECE511006DAD5E /* ViewController.swift */,
+				18B4C3C521EE41D10081BA7C /* DrawView.swift */,
 				18E58F1D21ECE511006DAD5E /* Main.storyboard */,
 				18E58F2021ECE513006DAD5E /* Assets.xcassets */,
 				18E58F2221ECE513006DAD5E /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 			files = (
 				18E58F1C21ECE511006DAD5E /* ViewController.swift in Sources */,
 				18E58F1A21ECE511006DAD5E /* AppDelegate.swift in Sources */,
+				18B4C3C621EE41D10081BA7C /* DrawView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
