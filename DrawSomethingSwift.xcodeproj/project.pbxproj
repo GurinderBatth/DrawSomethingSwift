@@ -15,6 +15,7 @@
 		18E58F2421ECE513006DAD5E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18E58F2221ECE513006DAD5E /* LaunchScreen.storyboard */; };
 		18E58F2F21ECE513006DAD5E /* DrawSomethingSwiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18E58F2E21ECE513006DAD5E /* DrawSomethingSwiftTests.swift */; };
 		18E58F3A21ECE513006DAD5E /* DrawSomethingSwiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18E58F3921ECE513006DAD5E /* DrawSomethingSwiftUITests.swift */; };
+		18ED7BCC21EF9CB200BBB7FB /* Line.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18ED7BCB21EF9CB200BBB7FB /* Line.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		18E58F3521ECE513006DAD5E /* DrawSomethingSwiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DrawSomethingSwiftUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		18E58F3921ECE513006DAD5E /* DrawSomethingSwiftUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrawSomethingSwiftUITests.swift; sourceTree = "<group>"; };
 		18E58F3B21ECE513006DAD5E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18ED7BCB21EF9CB200BBB7FB /* Line.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Line.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				18E58F1921ECE511006DAD5E /* AppDelegate.swift */,
 				18E58F1B21ECE511006DAD5E /* ViewController.swift */,
 				18B4C3C521EE41D10081BA7C /* DrawView.swift */,
+				18ED7BCB21EF9CB200BBB7FB /* Line.swift */,
 				18E58F1D21ECE511006DAD5E /* Main.storyboard */,
 				18E58F2021ECE513006DAD5E /* Assets.xcassets */,
 				18E58F2221ECE513006DAD5E /* LaunchScreen.storyboard */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				18E58F1C21ECE511006DAD5E /* ViewController.swift in Sources */,
+				18ED7BCC21EF9CB200BBB7FB /* Line.swift in Sources */,
 				18E58F1A21ECE511006DAD5E /* AppDelegate.swift in Sources */,
 				18B4C3C621EE41D10081BA7C /* DrawView.swift in Sources */,
 			);
